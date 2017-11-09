@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="decomposeConditionals"/>
+	<classpathentry kind="src" path="extractClass"/>
+	<classpathentry kind="src" path="extractMethod"/>
+	<classpathentry kind="src" path="extractSubclass"/>
+	<classpathentry kind="src" path="formTemplateMethod"/>
+	<classpathentry kind="src" path="introduceParameterObject"/>
+	<classpathentry kind="src" path="moveMethod"/>
+	<classpathentry kind="src" path="preserveWholeObject"/>
+	<classpathentry kind="src" path="replaceArrayWithObject"/>
+	<classpathentry kind="src" path="replaceConditionalWithPolymorphism"/>
+	<classpathentry kind="src" path="replaceDataValueWithObject"/>
+	<classpathentry kind="src" path="replaceMethodWithMethodObject"/>
+	<classpathentry kind="src" path="replaceTempWithQuery"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithClass"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithStateStrategy"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithSubclasses"/>
+	<classpathentry kind="src" path="substituteAlgorithm"/>
+	<classpathentry kind="src" path="inlineClass"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
